@@ -1,0 +1,10 @@
+title: citrus
+author: Shantanu Mishra
+email: dev@8hantanu.net
+description: >
+  a neovim plugin to manage cross-referencing of .md files
+
+url: https://8hantanu.net
+baseurl: /citrus
+
+remote_theme: yree/mold
